@@ -1,6 +1,6 @@
-Hello there! I'm Mirza Mujkanovic 👋
+# Hello there! I'm Mirza Mujkanovic 👋
 
-🚀 Technologies I Use:<br>
+## 🚀 Technologies I Use
 🔹 Frontend: 🅰 Angular 🖥️ TypeScript ⚡JavaScript 🎨 HTML5 🎭 CSS3 ⚛️ React.js <br>
 🔹 Backend: ♨️ Java 🍃 Spring boot 🅺 Kotlin 🏗️ Node.js 🌐 Express.js <br>
 🔹 Databases: 🛢️ PostgreSQL ⭕ OracleSQL <br>
